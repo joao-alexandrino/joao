@@ -2,7 +2,7 @@
 
 ##### Estou me graduando em Arquitetura e Urbanismo pela UFC e desenvolvi um interesse especial por dados urbanos e modelagem da informação da Cidade (CIM). Atualmente venho mirando numa carreira em Ciência de Dados, investindo no aprendizado de técnicas de programação, análise de dados, estatística, e machine learning. <br><br>
 
-- 🌱 Estudante de `Data Science` e `Data Analytics` - ex-aluno da [Ada Tech](https://ada.tech/) <br>
+- 🌱 Estudante de `Data Science` e `Data Analytics` - ex-aluno na [Ada Tech](https://ada.tech/) <br>
 - 🔎 Aluno pesquisador de `CIM` no [led-ufc](https://www.led-ufc.com) <br>
 - 👀 Interessado em `Design` por aí <br><br><br>
 
@@ -26,7 +26,6 @@
 ![Rhinoceros](https://img.shields.io/badge/-Rhino3D-000?&logo=Rhinoceros&color=801010)
 ![QGis](https://img.shields.io/badge/-QGis-000?&logo=qgis&color=225206)
 ![Mapbox](https://img.shields.io/badge/-Mapbox-000?&logo=mapbox&color=000000)
-![Archicad](https://img.shields.io/badge/-Archicad-000?&logo=Archicad&color=2D50A5)
 
 
 <br><br>
