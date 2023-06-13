@@ -62,4 +62,3 @@
 ![Rhinoceros](https://img.shields.io/badge/-Rhino3D-000?&logo=Rhinoceros&color=801010)
 ![QGis](https://img.shields.io/badge/-QGis-000?&logo=qgis&color=225206)
 ![Mapbox](https://img.shields.io/badge/-Mapbox-000?&logo=mapbox&color=000000)
-![Archicad](https://img.shields.io/badge/-Archicad-000?&logo=Archicad&color=2D50A5)
